@@ -71,7 +71,7 @@
     .checkbox{
         font-size: 16px;
         line-height: 20px;
-        padding: 0px 0px 10px 25px;
+        padding: 0px 0px 10px 28px;
         position: relative;
         cursor: pointer;
         color: #fc0606;
@@ -157,7 +157,7 @@
     }
     .smile__good {
         position: absolute;
-        margin: 0px 0px 0px 70px;
+        margin: 0px 0px 0px 73px;
         display: var(--var-smile__good-display);
         
         
@@ -165,7 +165,7 @@
     .smile__bad {
         position: absolute;
         top: -50;
-        margin: 0px 0px 0px 70px;
+        margin: 0px 0px 0px 73px;
         display: var(--var-smile__bad-display);   
     }
     
